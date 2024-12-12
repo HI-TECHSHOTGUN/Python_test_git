@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python-test-git"
+version = "0.1.0"
+description = ""
+authors = ["HI-TECHSHOTGUN <maksimov_maksime@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
